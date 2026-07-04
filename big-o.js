@@ -10,5 +10,5 @@ function logAllArrPairs(arr) {
     }
   }
 }
-// Big O (n^2)
+// Big O is (n^2)
 // logAllArrPairs(items);
